@@ -1,6 +1,8 @@
 ea4bc82a6ad023ab7ee23ee620429895
-::res://::1752417984
+::res://::1752419167
 icon.webp::CompressedTexture2D/CompressedTexture2D::27118964165343846::1744386698::1752417978::1::::<><><>0<>0<>2765b228073266418cb0e013965e5088<>res://.godot/imported/icon.webp-e94f9a68b0f625a567a797079e4d325f.ctex::
+main.tscn::PackedScene::6255197594807363733::1752418788::0::1::::<><><>0<>0<><>::
+player.tscn::PackedScene::2545157862180874944::1752419082::0::1::::<><><>0<>0<><>::
 ::res://art/::1752417978
 body.tres::StandardMaterial3D/StandardMaterial3D::-1::1744386698::0::1::::<><><>0<>0<><>::
 eye.tres::StandardMaterial3D/StandardMaterial3D::-1::1744386698::0::1::::<><><>0<>0<><>::
