@@ -1,0 +1,3 @@
+[gd_scene format=3 uid="uid://bci5m4elj5jfs"]
+
+[node name="Player" type="CharacterBody3D"]
